@@ -19,5 +19,5 @@ This project uses historical market data to predict the next day's closing price
 **Tahir Ahmad**
 * **Role:** Machine Learning Intern at DeveloperHub Corporation
 * **Interests:** flutter, ML, and Deep Learning.
-* **Connect with me:** * [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/tahir-ahmad-b03187296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+* **Connect with me:** * [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/tahir-ahmad-b03187296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
     * [Email](mailto:tahirahmad1002@hmail.com)
